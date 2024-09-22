@@ -71,7 +71,7 @@ export default function Sidebar() {
     <div className="sidebar-wrapper" style={{ minWidth: isOpen ? "250px" : "75px" }}>
       <div className="sidebar">
         <div className="top-section">
-          <p style={{ display: isOpen ? "block" : "none" }}>SSPS</p>
+          <p style={{ display: isOpen ? "block" : "none" }}>Vision</p>
 
           {isOpen ? (
             <FaAngleDoubleLeft

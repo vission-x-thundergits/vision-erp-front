@@ -159,10 +159,10 @@ const GeneratedIdCards = () => {
                 />
                 <div className="school-details">
                   <h2 className="school-name">
-                    Satya Sai Public School
+                    Vision Public School
                   </h2>
                   <p className="school-address">
-                    Jakhar, Samastipur, Bihar, India - 848216
+                    Gandhinagar, Sasaram
                   </p>
                   <p className="school-motto">शिक्षा है अनमोल रतन</p>
                 </div>

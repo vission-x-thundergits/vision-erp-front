@@ -78,12 +78,12 @@ const AdmissionReceipt = ({ studentData }) => {
           className="school-logo-adm-res"
         />
         <div className="school-details">
-          <h1 className="school-name-adm-res curved-text">Satya Sai Public School</h1>
+          <h1 className="school-name-adm-res curved-text">Vision Public School</h1>
           {/* <canvas id="school-name-canvas" width="600" height="200"></canvas> */}
           
 
           <div className="school-address">
-            <p>Jakhar, Samastipur, Bihar, India - 848216</p>
+            <p>Gandhinagar Sasaram, Bihar</p>
             <p>शिक्षा है अनमोल रतन</p>
           </div>
         </div>

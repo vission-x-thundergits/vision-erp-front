@@ -42,7 +42,7 @@ const FeeReceipt = () => {
 
                         },
                         payTo: {
-                            name: 'Satya Sai Public School',
+                            name: 'Vision Public School',
                             address: 'Sasaraam',
                             stateCountry: 'Bihar, India',
                             email: 'satyasaischools@gmail.com',
