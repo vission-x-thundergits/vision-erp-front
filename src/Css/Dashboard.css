@@ -1,0 +1,31 @@
+.dashcard{
+    background-color: #fff;
+    color: rgb(68,85,105)f;
+    width: 250px;
+    text-align: left;
+    height: 150px;
+    border-radius: 5px;
+    padding: 20px;
+    box-sizing: border-box;
+    margin:10px auto;
+    display: flex;
+    align-items: center;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+.dashcard a{
+    color: rgb(68,85,105);
+}
+.chart{
+    width: 100%;
+    height: auto;
+    padding: 1rem;
+}
+.chart-container{
+    width: 100%;
+    height: auto;
+}
+canvas,.bar-chart{
+    width: 100% !important;
+    height: auto !important;
+}
