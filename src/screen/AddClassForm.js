@@ -74,7 +74,7 @@ export default function AddClassForm() {
     }
 
     // Send data to server
-    fetch("http://localhost:4000/api/class/add", {
+    fetch("https://backend.vissionclasses.in/api/class/add", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

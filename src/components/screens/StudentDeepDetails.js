@@ -10,7 +10,7 @@ export default function StudentDeepDetails() {
   useEffect(() => {
     // fetching all students
     if (classid == "all") {
-      fetch("http://localhost:5000/", {
+      fetch("https://backend.vissionclasses.in/'", {
         headers: {
           "Content-Type": "application/json",
         },
